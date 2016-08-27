@@ -6,4 +6,5 @@ echo "some line";
 echo "seomnewline";
 echo "onelasttime";
 ok
+was geht
 ?>
