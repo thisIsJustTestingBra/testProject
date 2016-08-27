@@ -5,4 +5,5 @@ echo "something new";
 echo "some line";
 echo "seomnewline";
 echo "onelasttime";
+ok
 ?>
